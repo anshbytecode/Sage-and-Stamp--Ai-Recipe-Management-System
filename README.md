@@ -1,4 +1,4 @@
-# Sage & Stamp — AI Recipe Management System
+# 🍽️Sage & Stamp — AI Recipe Management System
 
 Sage & Stamp is an AI-powered recipe management and recommendation system that helps users add, organize, and discover recipes based on ingredients, cuisine type, and user preferences.
 
@@ -28,5 +28,3 @@ It uses **Machine Learning (TF-IDF, Naive Bayes, and K-Means clustering)** to cl
 - NumPy 🔢
 - HTML, CSS, JavaScript 🎨
 
-
-## 📁 Project Structure
